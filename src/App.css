@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-f6DfG8HaIFjwWovwgJSqgFp_uzm3twQkNTZbUkJ4NWcq8lJtNc0eF-Wshh2mDl0UgU&usqp=CAU");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover; /* Resize the background image to cover the entire container */
 }
 
 .App-logo {
